@@ -5,3 +5,4 @@ logs/
 .classpath
 .class
 .settings/
+.DS_Store
